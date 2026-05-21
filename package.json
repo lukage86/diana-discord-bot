@@ -1,9 +1,15 @@
 {
   "name": "streamstatusbot",
   "version": "1.0.0",
+  "description": "Discord bot for Diana stream status overrides",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "discord.js": "^14.11.0",
+    "express": "^4.19.2",
     "node-fetch": "^3.3.1"
-  },
-  "type": "module"
+  }
 }
