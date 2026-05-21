@@ -10,7 +10,7 @@ const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 // Website/data repo
 const REPO = "lukage86/dianastreamstatus";
-const FILE_PATH = "data/override.json";
+const FILE_PATH = "override.json";
 // -------------------------------------------------------
 
 // -------------------------------------------------------
